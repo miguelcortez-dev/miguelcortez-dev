@@ -7,10 +7,9 @@ I enjoy building software, understanding how things work under the hood, and con
 ##  Currently
 
 *  Studying Computer Science at **UNIFEI**
-*  Developing my software engineering fundamentals
-*  Learning **Python** and **C**
-*  Building applications with **Flutter**
-*  Exploring web development
+*  Developing mobile, web and data science projects at **Asimov Jr.**, UNIFEI's junior company
+*  Building applications with **Flutter**, **Next.js** and **Python**
+*  Exploring **computer vision**
 *  Interested in **FinTech**, software engineering and entrepreneurship
 
 ##  Tech Stack
