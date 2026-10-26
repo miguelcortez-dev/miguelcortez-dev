@@ -61,6 +61,34 @@ The project includes authentication, people management and internal organization
 
 ---
 
+### Student Care
+
+A computer vision system born in a competition to identify behaviors that indicate stereotypy episodes in schools and universities. It alerts guardians and offers support options.
+
+I worked on designing the solution and developing the mobile and desktop applications.
+
+**Tech:** Computer Vision • Mobile • Desktop
+
+---
+
+### UNIFEI+
+
+An app, still in development, that unifies university information and works as an internal social network.
+
+A pioneering project in which a Brazilian junior company provides a service to its own university. I worked on designing the solution and developing the mobile and desktop applications.
+
+**Status:** In development
+
+---
+
+### Security Camera Management System
+
+A system built for a company to better manage the many security cameras of its logistics warehouse. It uses computer vision to detect motion, prioritizes the cameras that register movement and stores the time of each suspicious occurrence.
+
+**Tech:** Computer Vision
+
+---
+
 ##  What I'm Working Towards
 
 I'm currently focused on becoming a strong software developer by building real projects, strengthening my fundamentals, and learning how to design and maintain reliable software.
