@@ -98,4 +98,4 @@ I'm particularly interested in the intersection of **technology, finance and ent
 
 * 💼 LinkedIn: Soon to be
 * 📧 Email: miguelccavalcante2005@gmail.com
-  
+* 🖥️ Portfolio: miguelcortez.com.br  
