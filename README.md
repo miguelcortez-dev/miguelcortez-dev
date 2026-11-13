@@ -70,16 +70,6 @@ I worked on designing the solution and developing the mobile and desktop applica
 
 ---
 
-### UNIFEI+
-
-An app, still in development, that unifies university information and works as an internal social network.
-
-A pioneering project in which a Brazilian junior company provides a service to its own university. I worked on designing the solution and developing the mobile and desktop applications.
-
-**Status:** In development
-
----
-
 ### Security Camera Management System
 
 A system built for a company to better manage the many security cameras of its logistics warehouse. It uses computer vision to detect motion, prioritizes the cameras that register movement and stores the time of each suspicious occurrence.
