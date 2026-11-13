@@ -40,6 +40,17 @@ I enjoy building software, understanding how things work under the hood, and con
 
 ##  Featured Projects
 
+### [Gestão de Matérias](https://github.com/miguelcortez-dev/gestaomaterias)
+
+A desktop app for tracking college courses as a flowchart: terms in columns, courses as cards and prerequisites linked by arrows. It works fully offline, stores data locally and supports JSON export/import.
+
+**Tech:** Electron • JavaScript • HTML • CSS
+
+[![Downloads](https://img.shields.io/github/downloads/miguelcortez-dev/gestaomaterias/total?style=flat-square&label=downloads&color=2ea44f)](https://github.com/miguelcortez-dev/gestaomaterias/releases)
+[![Latest release](https://img.shields.io/github/v/release/miguelcortez-dev/gestaomaterias?style=flat-square&label=release)](https://github.com/miguelcortez-dev/gestaomaterias/releases/latest)
+
+---
+
 ###  NexSpend
 
 A command-line personal finance organizer built with Python.
